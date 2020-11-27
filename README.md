@@ -1,9 +1,9 @@
 # Hello there 
 
-## Music
+## Music :guitar:
 [![spotify](https://soos.vercel.app/api/spotify)](https://open.spotify.com/user/alkesst)
 
-## Stats
+## Stats :bar_chart:
 ![Alejandro's github stats](https://github-readme-stats.vercel.app/api?username=alkesst&show_icons=true&theme=calm)
 <!--
 **Alkesst/Alkesst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
